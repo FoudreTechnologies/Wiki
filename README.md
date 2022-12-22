@@ -1,0 +1,2 @@
+# Wiki
+FoudreStudios wiki page
