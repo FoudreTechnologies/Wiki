@@ -1,5 +1,7 @@
 # 📕 License
 
+## BY OBTAINING ANY FOUDRE TECHNOLOGIES RESOURCE, YOU ACCEPT THAT YOU HAVE READ AND APPROVED THESE.
+
 ```
 Copyright (C) Foudre Technologies - All Rights Reserved.
 
