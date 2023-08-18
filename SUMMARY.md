@@ -1,15 +1,13 @@
 # Table of contents
 
+* [👋 Welcome!](README.md)
+* [📞 Contact Us](contact-us.md)
+
 ## ❗ IMPORTANT
 
-* [⚠ Warnings](README.md)
+* [⚠ Warnings](important/warnings.md)
 * [📙 Terms of Service](important/terms-of-service.md)
 * [📕 License](important/license.md)
-
-***
-
-* [👋 Welcome!](welcome.md)
-* [📞 Contact Us](contact-us.md)
 
 ## 💻 Plugins
 

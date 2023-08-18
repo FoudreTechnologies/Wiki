@@ -1,5 +1,7 @@
-# ⚠ Warnings
+---
+description: Let's start!
+---
 
-## BY OBTAINING ANY FOUDRE TECHNOLOGIES RESOURCE, YOU ACCEPT THAT YOU HAVE READ AND APPROVED THESE.
+# 👋 Welcome!
 
-### Even though our plugins are usually suitable for from 1.8.9 to the latest version unless specified otherwise, all of our products are compiled with Java 17. If you run a server that does not use Java 17, contact us for possible solutions in your case.
+Hey there, and welcome to the documentation page for **Foudre Technologies** products. What are we waiting for? Let's start!
